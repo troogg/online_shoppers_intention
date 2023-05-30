@@ -21,7 +21,13 @@ O projeto consiste em uma análise de dados de intenção de compras de usuário
 
 ## Contribuição
 
-Este projeto foi desenvolvido como parte de um estudo pessoal. No entanto, caso você tenha alguma sugestão de melhoria, correção de bugs ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
+Este projeto foi desenvolvido como parte de um estudo pessoal. No entanto, caso você tenha alguma sugestão de melhoria, correção de bugs ou novas funcionalidades, fique à vontade para contribuir!
+
+- Faça um fork desse repositório.
+- Crie uma branch com a sua feature: `git checkout -b minha-feature.`
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'.`
+- Faça push para a sua branch: `git push origin minha-feature.`
+- Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Referências
 
